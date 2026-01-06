@@ -1,3 +1,4 @@
+
 # MERN Authentication Module
 
 This project is developed as part of an internship assessment.
