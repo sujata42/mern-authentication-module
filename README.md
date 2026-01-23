@@ -1,5 +1,5 @@
 
-# MERN Authentication Module
+# MERN Authentication module 
 
 This project is developed as part of an internship assessment.
 
